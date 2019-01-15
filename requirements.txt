@@ -6,3 +6,7 @@ psycopg2==2.7.4
 django-rest-swagger==2.2.0
 # Needed import
 django-cors-headers==2.1.0
+
+# Needed for Heroku
+django-heroku
+gunicorn
